@@ -6,7 +6,7 @@
   <h2>En frisk ung fyr på 22år som bor i Esbjerg. Jeg elsker at træne og bygge min bil. 
     Når det drejer sig om studie, så læser jeg til multimediadesigner, da min plan er at have det store fokus på business og design.
   Vil meget gerne læse videre til design og business, og have fokus på fashiondesign, da jeg allerede har min egen forretning.
-  Med denne multimediadesigner uddannelse vil jeg lære en del om design og business som jeg vil bruge til fremtiden.
+  Med denne multimediadesigner uddannelse vil jeg lære en del om design og business som jeg vil bruge i fremtiden.
 </h2>  
       </v-col>
       <v-col cols="6">
