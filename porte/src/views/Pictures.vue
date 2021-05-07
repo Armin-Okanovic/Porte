@@ -61,10 +61,40 @@ export default {
                  {
                     imgName: require("../assets/esbjerg-projekt.png")
                 },
-                 {
-                    imgName: require("../assets/ao-logo.png")
-                }
+                 
+                
+                {
+                    imgName: require("../assets/1.jpg")
+                },
+
+                {
+                    imgName: require("../assets/2.jpg")
+                },
                   
+  
+                {
+                    imgName: require("../assets/3.jpg")
+                },
+                
+                {
+                    imgName: require("../assets/4.jpg")
+                },
+
+                {
+                    imgName: require("../assets/5.jpg")
+                },
+
+                {
+                    imgName: require("../assets/7.jpg")
+                },
+
+                {
+                    imgName: require("../assets/8.jpg")
+                },
+
+                {
+                    imgName: require("../assets/9.jpg")
+                },
             ]
         }
     },

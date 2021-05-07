@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>My Skills</h1>
+    <h1>MY SKILLS</h1>
         <span>HTML</span>
         <v-progress-linear value="10" height="30"></v-progress-linear>
 
