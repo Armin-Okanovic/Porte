@@ -19,3 +19,15 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+
+
+    div {
+        
+        
+        
+        
+
+    }
+</style>

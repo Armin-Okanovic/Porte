@@ -20,14 +20,14 @@ Armin Okanovic
       Mine Projekter 
       
     </h3>
-    <h3>VIDEO OG REDIGIERING</h3>
+    <h3>VIDEO/REDIGIERING</h3>
     <ul>
       <li><a href="https://www.youtube.com/watch?v=2TrPDs8GUD0" target="_blank" rel="noopener">CV VIDEO</a></li>
       <li><a href="https://youtu.be/xiaiFXE-rFA" target="_blank" rel="noopener">SHORT MOVIE</a></li>
     <li><a href="https://www.youtube.com/watch?v=nqNb4qBQlXc" target="_blank" rel="noopener">COMMERCIAL</a></li>
     <li><a href="https://youtu.be/gbzIRR6Gi9Qtarget=" target="_blank" rel="noopener">CARPORN</a></li>
     </ul>
-    <h3>DOKUMENTER</h3> 
+    <h3>DOKUMENTER/ART</h3> 
 
     <ul>
       <li><a href="../files/CV-kopi.pdf" target="_blank" rel="noopener">CV</a></li>
