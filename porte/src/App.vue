@@ -45,7 +45,7 @@ a {
     color: black;
 
     &.router-link-exact-active {
-      color: goldenrod; 
+      color: #E19873; 
       lighting-color: silver;
     }
   }

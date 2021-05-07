@@ -80,7 +80,7 @@ h1{
   
 }
 .rounded{
-  height: 100vh;
+  //height: 100vh;
   width: 375px;
   margin: auto;
  

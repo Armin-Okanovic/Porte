@@ -1,4 +1,10 @@
 <template>
+ <div class="pictures">
+  <h2>
+    Her er nogle af mine art og billeder som jeg har fået taget. Elsker at tage billeder af, naturen, street, kulturen, min bil osv..
+</h2>  
+
+
   <v-row>
     <v-col
       class="d-flex child-flex"
@@ -32,6 +38,7 @@
       
     </v-col>
   </v-row>
+ </div>
 </template>
 
 <script>
